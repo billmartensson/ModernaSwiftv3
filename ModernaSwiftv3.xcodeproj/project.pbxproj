@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		E8859B7E2CBFEA2A007B6E66 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E8859B652CBFEA28007B6E66 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E8859B6C2CBFEA28007B6E66;
+			remoteInfo = ModernaSwiftv3;
+		};
+		E8859B882CBFEA2A007B6E66 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E8859B652CBFEA28007B6E66 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E8859B6C2CBFEA28007B6E66;
+			remoteInfo = ModernaSwiftv3;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E8859B6D2CBFEA28007B6E66 /* ModernaSwiftv3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ModernaSwiftv3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E8859B7D2CBFEA2A007B6E66 /* ModernaSwiftv3Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ModernaSwiftv3Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E8859B872CBFEA2A007B6E66 /* ModernaSwiftv3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ModernaSwiftv3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E8859B6F2CBFEA28007B6E66 /* ModernaSwiftv3 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ModernaSwiftv3;
+			sourceTree = "<group>";
+		};
+		E8859B802CBFEA2A007B6E66 /* ModernaSwiftv3Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ModernaSwiftv3Tests;
+			sourceTree = "<group>";
+		};
+		E8859B8A2CBFEA2A007B6E66 /* ModernaSwiftv3UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ModernaSwiftv3UITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E8859B6A2CBFEA28007B6E66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E8859B7A2CBFEA2A007B6E66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E8859B842CBFEA2A007B6E66 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E8859B642CBFEA28007B6E66 = {
+			isa = PBXGroup;
+			children = (
+				E8859B6F2CBFEA28007B6E66 /* ModernaSwiftv3 */,
+				E8859B802CBFEA2A007B6E66 /* ModernaSwiftv3Tests */,
+				E8859B8A2CBFEA2A007B6E66 /* ModernaSwiftv3UITests */,
+				E8859B6E2CBFEA28007B6E66 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E8859B6E2CBFEA28007B6E66 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E8859B6D2CBFEA28007B6E66 /* ModernaSwiftv3.app */,
+				E8859B7D2CBFEA2A007B6E66 /* ModernaSwiftv3Tests.xctest */,
+				E8859B872CBFEA2A007B6E66 /* ModernaSwiftv3UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E8859B6C2CBFEA28007B6E66 /* ModernaSwiftv3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E8859B912CBFEA2A007B6E66 /* Build configuration list for PBXNativeTarget "ModernaSwiftv3" */;
+			buildPhases = (
+				E8859B692CBFEA28007B6E66 /* Sources */,
+				E8859B6A2CBFEA28007B6E66 /* Frameworks */,
+				E8859B6B2CBFEA28007B6E66 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E8859B6F2CBFEA28007B6E66 /* ModernaSwiftv3 */,
+			);
+			name = ModernaSwiftv3;
+			packageProductDependencies = (
+			);
+			productName = ModernaSwiftv3;
+			productReference = E8859B6D2CBFEA28007B6E66 /* ModernaSwiftv3.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E8859B7C2CBFEA2A007B6E66 /* ModernaSwiftv3Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E8859B942CBFEA2A007B6E66 /* Build configuration list for PBXNativeTarget "ModernaSwiftv3Tests" */;
+			buildPhases = (
+				E8859B792CBFEA2A007B6E66 /* Sources */,
+				E8859B7A2CBFEA2A007B6E66 /* Frameworks */,
+				E8859B7B2CBFEA2A007B6E66 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E8859B7F2CBFEA2A007B6E66 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E8859B802CBFEA2A007B6E66 /* ModernaSwiftv3Tests */,
+			);
+			name = ModernaSwiftv3Tests;
+			packageProductDependencies = (
+			);
+			productName = ModernaSwiftv3Tests;
+			productReference = E8859B7D2CBFEA2A007B6E66 /* ModernaSwiftv3Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E8859B862CBFEA2A007B6E66 /* ModernaSwiftv3UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E8859B972CBFEA2A007B6E66 /* Build configuration list for PBXNativeTarget "ModernaSwiftv3UITests" */;
+			buildPhases = (
+				E8859B832CBFEA2A007B6E66 /* Sources */,
+				E8859B842CBFEA2A007B6E66 /* Frameworks */,
+				E8859B852CBFEA2A007B6E66 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E8859B892CBFEA2A007B6E66 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E8859B8A2CBFEA2A007B6E66 /* ModernaSwiftv3UITests */,
+			);
+			name = ModernaSwiftv3UITests;
+			packageProductDependencies = (
+			);
+			productName = ModernaSwiftv3UITests;
+			productReference = E8859B872CBFEA2A007B6E66 /* ModernaSwiftv3UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E8859B652CBFEA28007B6E66 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					E8859B6C2CBFEA28007B6E66 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					E8859B7C2CBFEA2A007B6E66 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = E8859B6C2CBFEA28007B6E66;
+					};
+					E8859B862CBFEA2A007B6E66 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = E8859B6C2CBFEA28007B6E66;
+					};
+				};
+			};
+			buildConfigurationList = E8859B682CBFEA28007B6E66 /* Build configuration list for PBXProject "ModernaSwiftv3" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E8859B642CBFEA28007B6E66;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E8859B6E2CBFEA28007B6E66 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E8859B6C2CBFEA28007B6E66 /* ModernaSwiftv3 */,
+				E8859B7C2CBFEA2A007B6E66 /* ModernaSwiftv3Tests */,
+				E8859B862CBFEA2A007B6E66 /* ModernaSwiftv3UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E8859B6B2CBFEA28007B6E66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E8859B7B2CBFEA2A007B6E66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E8859B852CBFEA2A007B6E66 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E8859B692CBFEA28007B6E66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E8859B792CBFEA2A007B6E66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E8859B832CBFEA2A007B6E66 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E8859B7F2CBFEA2A007B6E66 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E8859B6C2CBFEA28007B6E66 /* ModernaSwiftv3 */;
+			targetProxy = E8859B7E2CBFEA2A007B6E66 /* PBXContainerItemProxy */;
+		};
+		E8859B892CBFEA2A007B6E66 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E8859B6C2CBFEA28007B6E66 /* ModernaSwiftv3 */;
+			targetProxy = E8859B882CBFEA2A007B6E66 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E8859B8F2CBFEA2A007B6E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E8859B902CBFEA2A007B6E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E8859B922CBFEA2A007B6E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ModernaSwiftv3/Preview Content\"";
+				DEVELOPMENT_TEAM = 6SGQZ32758;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = se.magictechnology.ModernaSwiftv3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E8859B932CBFEA2A007B6E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ModernaSwiftv3/Preview Content\"";
+				DEVELOPMENT_TEAM = 6SGQZ32758;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = se.magictechnology.ModernaSwiftv3;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E8859B952CBFEA2A007B6E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6SGQZ32758;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = se.magictechnology.ModernaSwiftv3Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ModernaSwiftv3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ModernaSwiftv3";
+			};
+			name = Debug;
+		};
+		E8859B962CBFEA2A007B6E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6SGQZ32758;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = se.magictechnology.ModernaSwiftv3Tests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ModernaSwiftv3.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ModernaSwiftv3";
+			};
+			name = Release;
+		};
+		E8859B982CBFEA2A007B6E66 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6SGQZ32758;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = se.magictechnology.ModernaSwiftv3UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ModernaSwiftv3;
+			};
+			name = Debug;
+		};
+		E8859B992CBFEA2A007B6E66 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6SGQZ32758;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = se.magictechnology.ModernaSwiftv3UITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ModernaSwiftv3;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E8859B682CBFEA28007B6E66 /* Build configuration list for PBXProject "ModernaSwiftv3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E8859B8F2CBFEA2A007B6E66 /* Debug */,
+				E8859B902CBFEA2A007B6E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E8859B912CBFEA2A007B6E66 /* Build configuration list for PBXNativeTarget "ModernaSwiftv3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E8859B922CBFEA2A007B6E66 /* Debug */,
+				E8859B932CBFEA2A007B6E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E8859B942CBFEA2A007B6E66 /* Build configuration list for PBXNativeTarget "ModernaSwiftv3Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E8859B952CBFEA2A007B6E66 /* Debug */,
+				E8859B962CBFEA2A007B6E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E8859B972CBFEA2A007B6E66 /* Build configuration list for PBXNativeTarget "ModernaSwiftv3UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E8859B982CBFEA2A007B6E66 /* Debug */,
+				E8859B992CBFEA2A007B6E66 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E8859B652CBFEA28007B6E66 /* Project object */;
+}
